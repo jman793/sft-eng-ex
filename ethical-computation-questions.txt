@@ -1,0 +1,6 @@
+#Ethical Considerations in Computing
+1. Who owns my data?
+2. What are my responsibilities to society when I write software?
+3. Who owns the products I create?
+4. Who owns the ideas I come up with?
+5. Am I allowed to use code I write for one company for personal projects? 
